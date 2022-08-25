@@ -1,6 +1,6 @@
 # pyECGdeli - ECG delineation algorithms for python
 
-ECGdeli is originally a Matlab toolbox for filtering and processing single or multilead ECGs which was developed at the Institute of Biomedical Engineerin at Karlsruhe Institute for Technology. In this repository, I am presenting an implementation of the algorithms to python. I intended to use the same structure if possible, however, at some points, I tried to improve the MATLAB implementation. If you want to use the Code, please stick with th citation rules of ECGdeli as presented in this repository.
+ECGdeli is originally a Matlab toolbox for filtering and processing single or multilead ECGs which was developed at the Institute of Biomedical Engineerin at Karlsruhe Institute for Technology. In this repository, I am presenting an implementation of the algorithms to python. I intended to use the same structure if possible, however, at some points, I tried to improve the MATLAB implementation. If you want to use the Code, please stick with the citation rules of ECGdeli as presented in this repository.
 
 Code and details will be published here soon.
 
