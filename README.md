@@ -6,7 +6,11 @@ The main differences between ECGdeli and pyECGdeli using are:
 * Every wave detection algorithm is multi-lead. You don't need to run a function "annotateECG_multi" as in ECGdeli.
 * FPT tables are still used. Indexing, however, starts at 0.
 
-Code and details will be published here soon.
+Only code for QRS complex detection was published. R peak detection was evaluated using the QT database from physionet as with ECGdeli. Statistics on the errors on R peak detection with this database were:
+-2.00 ± 3.85 (mean/std of errors)
+2.60 ± 3.47 (mean/std of absolute errors)
+2.00 ± 2.00 (median/iqr of absolute errors)
+
 
 Please note the following points:
 * This is work in progress, so certain algorithms are still missing at the moment. Tests of the existing algorithms will be conducted similar to those described in the ECGdeli paper.
